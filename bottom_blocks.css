@@ -1,0 +1,65 @@
+.bottom-block{
+    background-image: url(images/bg-grid.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    background-color: #ffffff;
+    width: 100%;
+    min-height: 80vh;
+    display: flex;
+    justify-content:center;
+    Align-items: center;
+}
+
+.bottom__text{
+    margin-left: 6vw;
+    margin-right: 6vw;
+}
+
+.bottom__p{
+    margin-top: 3vh;
+    font-size: 110%;
+    font-weight: 400;
+}
+.bottom__image__img{
+    width: 31vw;
+    margin-right: 6vw;
+}
+
+.footer-list{
+    display: flex;
+    justify-content:space-around;
+    Align-items: center;
+    padding: 5vh 0vw;
+    font-size: 110%;
+}
+.footer-list__b1:hover{
+    color:aquamarine;
+}
+.footer-list__b1:active{
+    color:#7f68da;
+}
+.footer-list__b2:hover{
+    color:aquamarine;
+}
+.footer-list__b2:active{
+    color:#7f68da;
+}
+.footer-list__b3:hover{
+    color:aquamarine;
+}
+.footer-list__b3:active{
+    color:#7f68da;
+}
+.footer-list__b4:hover{
+    color:aquamarine;
+}
+.footer-list__b4:active{
+    color:#7f68da;
+}
+.footer-list__b5:hover{
+    color:aquamarine;
+}
+.footer-list__b5:active{
+    color:#7f68da;
+}
